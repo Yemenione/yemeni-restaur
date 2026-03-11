@@ -1,0 +1,38 @@
+{
+    "Index": {
+        "title": "Welcome to Yemeni Restaurant Paris",
+        "subtitle": "A Taste of Heritage and Luxury"
+    },
+    "Story": {
+        "title": "Our Heritage",
+        "subtitle": "From the mountains of Yemen to the heart of Paris.",
+        "description": "We bring you the authentic flavors of Yemen, prepared with ancient techniques and served with Parisian elegance. Every dish is a journey through history, from our slow-cooked Mandi to our legendary Stone Pot stews.",
+        "label": "Since 1994"
+    },
+    "Menu": {
+        "title": "The Magla Experience",
+        "subtitle": "Our signature dishes, served in volcanic stone pots that preserve heat and soul.",
+        "catMain": "Main Dishes",
+        "catStarters": "Starters",
+        "catDesserts": "Desserts",
+        "catDrinks": "Drinks",
+        "saltahName": "Saltah",
+        "saltahDesc": "The national dish of Yemen. A rich stew with vegetables and meat, topped with fenugreek froth.",
+        "fahsaName": "Fahsa",
+        "fahsaDesc": "Slow-cooked shredded beef, served bubbling in a traditional stone pot.",
+        "mandiName": "Mandi",
+        "mandiDesc": "Meat cooked in traditional underground ovens, served over saffron-infused basmati rice."
+    },
+    "Reservation": {
+        "title": "Request a Table",
+        "subtitle": "Experience the legendary Yemeni hospitality in the heart of Paris.",
+        "labelName": "Full Name",
+        "labelEmail": "Email Address",
+        "labelDate": "Reservation Date",
+        "labelGuests": "Number of Guests",
+        "labelMessage": "Special Requests",
+        "submit": "Book Now",
+        "successTitle": "Reservation Confirmed!",
+        "successMessage": "We look forward to welcoming you soon for an authentic Yemeni experience."
+    }
+}

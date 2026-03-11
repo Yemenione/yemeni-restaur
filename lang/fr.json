@@ -1,0 +1,38 @@
+{
+    "Index": {
+        "title": "Bienvenue au Restaurant Yéménite Paris",
+        "subtitle": "Un goût de patrimoine et de luxe"
+    },
+    "Story": {
+        "title": "Notre Héritage",
+        "subtitle": "Des montagnes du Yémen au cœur de Paris.",
+        "description": "Nous vous apportons les saveurs authentiques du Yémen, préparées avec des techniques ancestrales et servies avec l'élégance parisienne. Chaque plat est un voyage à travers l'histoire, de notre Mandi cuit lentement à nos ragoûts légendaires en pot de pierre.",
+        "label": "Depuis 1994"
+    },
+    "Menu": {
+        "title": "L'Expérience Magla",
+        "subtitle": "Nos plats signatures, servis dans des pots en pierre volcanique qui préservent la chaleur et l'âme.",
+        "catMain": "Plats Principaux",
+        "catStarters": "Entrées",
+        "catDesserts": "Desserts",
+        "catDrinks": "Boissons",
+        "saltahName": "Saltah",
+        "saltahDesc": "Le plat national du Yémen. Un ragoût riche avec des légumes et de la viande, garni de mousse de fenugrec.",
+        "fahsaName": "Fahsa",
+        "fahsaDesc": "Bœuf effiloché cuit lentement, servi bouillonnant dans un pot en pierre traditionnel.",
+        "mandiName": "Mandi",
+        "mandiDesc": "Viande cuite dans des fours traditionnels souterrains, servie sur du riz basmati infusé au safran."
+    },
+    "Reservation": {
+        "title": "Demander une Table",
+        "subtitle": "Découvrez la légendaire hospitalité yéménite au cœur de Paris.",
+        "labelName": "Nom Complet",
+        "labelEmail": "Adresse E-mail",
+        "labelDate": "Date de Réservation",
+        "labelGuests": "Nombre d'Invités",
+        "labelMessage": "Demandes Spéciales",
+        "submit": "Réserver Maintenant",
+        "successTitle": "Réservation Confirmée !",
+        "successMessage": "Nous avons hâte de vous accueillir prochainement pour une expérience yéménite authentique."
+    }
+}
